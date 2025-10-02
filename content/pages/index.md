@@ -7,7 +7,7 @@ sections:
       text: 'De la idea al modelo: BIM con estrategia, claridad y control.'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Metodología BIM como eje de tus proyectos
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
