@@ -8,7 +8,10 @@
                     "mr-1"
                 ],
                 "borderRadius": "xx-small",
-                "borderWidth": 0
+                "borderWidth": 0,
+                "padding": [
+                    "pt-1"
+                ]
             }
         },
         "type": "ImageBlock"
