@@ -49,7 +49,7 @@
         },
         {
             "label": "Contacto",
-            "altText": "e-mail",
+            "altText": "/",
             "links": [
                 {
                     "label": "info@olabim.com",
