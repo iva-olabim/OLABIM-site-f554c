@@ -49,7 +49,7 @@
         },
         {
             "label": "Contacto",
-            "altText": "Dropdown",
+            "altText": "e-mail",
             "links": [
                 {
                     "label": "Dropdown item",
