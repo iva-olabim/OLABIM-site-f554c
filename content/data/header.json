@@ -7,7 +7,7 @@
                 "margin": [
                     "mr-1"
                 ],
-                "borderRadius": "xx-small",
+                "borderRadius": "none",
                 "borderWidth": 0,
                 "padding": [
                     "pt-0",
